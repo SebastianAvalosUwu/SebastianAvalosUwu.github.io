@@ -1,0 +1,235 @@
+.settingscreen-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.settingscreen-settingscreen {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.settingscreen-rectangle30 {
+  top: 86px;
+  left: 0px;
+  width: 390px;
+  height: 758px;
+  position: absolute;
+}
+.settingscreen-rectangle32 {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  height: 132px;
+  position: absolute;
+  border-radius: 0 0 44px 44px;
+}
+.settingscreen-text {
+  top: 43px;
+  left: 136px;
+  color: rgba(255, 255, 255, 1);
+  width: 106px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.settingscreen-rectangle33 {
+  top: 227px;
+  left: 13px;
+  width: 364px;
+  height: 491px;
+  position: absolute;
+  border-radius: 24px;
+}
+.settingscreen-rectangle34 {
+  top: 227px;
+  left: 13px;
+  width: 364px;
+  height: 113px;
+  position: absolute;
+  border-radius: 18px;
+}
+.settingscreen-rectangle35 {
+  top: 353px;
+  left: 13px;
+  width: 364px;
+  height: 113px;
+  position: absolute;
+  border-radius: 18px;
+}
+.settingscreen-rectangle36 {
+  top: 479px;
+  left: 13px;
+  width: 364px;
+  height: 113px;
+  position: absolute;
+  border-radius: 18px;
+}
+.settingscreen-rectangle37 {
+  top: 605px;
+  left: 13px;
+  width: 364px;
+  height: 113px;
+  position: absolute;
+  border-radius: 18px;
+}
+.settingscreen-rectangle23 {
+  top: 737px;
+  left: 0px;
+  width: 390px;
+  height: 123px;
+  position: absolute;
+  border-radius: 20px;
+}
+.settingscreen-image35246592 {
+  top: 727px;
+  left: 270px;
+  width: 95px;
+  height: 98px;
+  position: absolute;
+}
+.settingscreen-image68747470733a2f2f73332e616d617a6f6e6177732e636 {
+  top: 146px;
+  left: 27px;
+  width: 65px;
+  height: 67px;
+  position: absolute;
+  border-radius: 152px;
+}
+.settingscreen-text02 {
+  top: 158px;
+  left: 101px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.settingscreen-image68747470733a2f2f73332e616d617a6f6e6177732e6361 {
+  top: 749px;
+  left: 145px;
+  width: 89px;
+  height: 81px;
+  position: absolute;
+  border-radius: 152px;
+}
+.settingscreen-image1225692002 {
+  top: 749px;
+  left: 0px;
+  width: 119px;
+  height: 86px;
+  position: absolute;
+}
+.settingscreen-text04 {
+  top: 268px;
+  left: 106px;
+  color: rgba(0, 0, 0, 1);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.settingscreen-text06 {
+  top: 388px;
+  left: 106px;
+  color: rgba(0, 0, 0, 1);
+  width: 234px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.settingscreen-text11 {
+  top: 502px;
+  left: 87px;
+  color: rgba(0, 0, 0, 1);
+  width: 245px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.settingscreen-text13 {
+  top: 645px;
+  left: 106px;
+  color: rgba(0, 0, 0, 1);
+  width: 120px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.settingscreen-image32765354 {
+  top: 263px;
+  left: 43px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.settingscreen-image31193381 {
+  top: 517px;
+  left: 46px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+}
+.settingscreen-image41047941 {
+  top: 389px;
+  left: 43px;
+  width: 41px;
+  height: 41px;
+  position: absolute;
+}
+.settingscreen-image29405392001 {
+  top: 635px;
+  left: 43px;
+  width: 46px;
+  height: 54px;
+  position: absolute;
+}

@@ -1,0 +1,314 @@
+.mainscreen-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.mainscreen-mainscreen {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.mainscreen-rectangle22 {
+  top: -141.69818115234375px;
+  left: -5px;
+  width: 399px;
+  height: 979px;
+  position: absolute;
+}
+.mainscreen-rectangle2 {
+  top: 36px;
+  left: 21px;
+  width: 348px;
+  height: 165px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 8px 4px 0px rgba(0, 0, 0, 0.12999999523162842) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.mainscreen-rectangle21 {
+  top: 0px;
+  left: 0px;
+  width: 348px;
+  height: 165px;
+  position: absolute;
+  border-radius: 33px;
+}
+.mainscreen-image68747470733a2f2f73332e616d617a6f6e6177732e636 {
+  top: 16px;
+  left: 19px;
+  width: 103px;
+  height: 104px;
+  position: absolute;
+  border-radius: 152px;
+}
+.mainscreen-text {
+  top: 114px;
+  left: 19px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainscreen-text02 {
+  top: 141px;
+  left: 22px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.mainscreen-stress1 {
+  top: 31px;
+  left: 156px;
+  width: 189px;
+  height: 142px;
+  position: absolute;
+}
+.mainscreen-text04 {
+  top: 208px;
+  left: 133px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainscreen-rectangle4 {
+  top: 268px;
+  left: 21px;
+  width: 144px;
+  height: 144px;
+  position: absolute;
+  border-radius: 33px;
+}
+.mainscreen-rectangle5 {
+  top: 268px;
+  left: 225px;
+  width: 144px;
+  height: 144px;
+  position: absolute;
+  border-radius: 33px;
+}
+.mainscreen-rectangle6 {
+  top: 444px;
+  left: 21px;
+  width: 144px;
+  height: 144px;
+  position: absolute;
+  border-radius: 33px;
+}
+.mainscreen-rectangle7 {
+  top: 444px;
+  left: 225px;
+  width: 144px;
+  height: 144px;
+  position: absolute;
+  border-radius: 33px;
+}
+.mainscreen-rectangle3 {
+  top: 745px;
+  left: 0px;
+  width: 390px;
+  height: 123px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mainscreen-rectangle8 {
+  top: 620px;
+  left: 21px;
+  width: 348px;
+  height: 71px;
+  position: absolute;
+  border-radius: 20px;
+}
+.mainscreen-text06 {
+  top: 365px;
+  left: 45px;
+  color: rgba(0, 0, 0, 1);
+  width: 104px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainscreen-heartrateiconvector20293144removebgpreview2 {
+  top: 277px;
+  left: 45px;
+  width: 95px;
+  height: 81px;
+  position: absolute;
+}
+.mainscreen-text08 {
+  top: 365px;
+  left: 45px;
+  color: rgba(0, 0, 0, 1);
+  width: 104px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainscreen-text10 {
+  top: 368px;
+  left: 251px;
+  color: rgba(0, 0, 0, 1);
+  width: 104px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainscreen-text12 {
+  top: 550px;
+  left: 254px;
+  color: rgba(0, 0, 0, 1);
+  width: 104px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainscreen-text14 {
+  top: 550px;
+  left: 61px;
+  color: rgba(0, 0, 0, 1);
+  width: 104px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainscreen-stressiconpng7removebgpreview2 {
+  top: 444px;
+  left: 41px;
+  width: 104px;
+  height: 99px;
+  position: absolute;
+}
+.mainscreen-text16 {
+  top: 550px;
+  left: 61px;
+  color: rgba(0, 0, 0, 1);
+  width: 104px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainscreen-text18 {
+  top: 627px;
+  left: 150px;
+  color: rgba(0, 0, 0, 1);
+  width: 104px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Manrope;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.mainscreen-sleeptimeclockiconcountdownfuturedaynightvector326 {
+  top: 277px;
+  left: 244px;
+  width: 111px;
+  height: 91px;
+  position: absolute;
+}
+.mainscreen-spo21 {
+  top: 447px;
+  left: 248px;
+  width: 103px;
+  height: 94px;
+  position: absolute;
+}
+.mainscreen-image35246591 {
+  top: 756px;
+  left: 288px;
+  width: 81px;
+  height: 72px;
+  position: absolute;
+}
+.mainscreen-image1225692001 {
+  top: 749px;
+  left: 1px;
+  width: 119px;
+  height: 86px;
+  position: absolute;
+}
+.mainscreen-image68747470733a2f2f73332e616d617a6f6e6177732e6361 {
+  top: 718px;
+  left: 135px;
+  width: 119px;
+  height: 117px;
+  position: absolute;
+  border-radius: 152px;
+}
